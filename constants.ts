@@ -31,5 +31,4 @@ Structure your response as a valid JSON object:
 }
 `;
 
-export const MODEL_NAME = 'gemini-3-pro-preview';
 export const MISTRAL_MODEL_NAME = 'mistral-large-latest';
