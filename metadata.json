@@ -1,0 +1,5 @@
+{
+  "name": "ReguParse AI",
+  "description": "A high-precision hierarchical document parser designed for regulatory and legal compliance documents. It leverages Gemini 3 Pro to convert unstructured OCR text into perfectly nested structures (1, 1.1, 1.1.a) without losing any content.",
+  "requestFramePermissions": []
+}
